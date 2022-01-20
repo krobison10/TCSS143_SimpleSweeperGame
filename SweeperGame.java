@@ -1,6 +1,5 @@
 /**
  * TCSS 143
- * Instructor: Raghavi Sakpal
  * Sweeper Game
  * Kyler Robsion
  */
